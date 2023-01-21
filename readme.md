@@ -35,7 +35,7 @@ api = Authcord("YOUR_USER_LEVEL_API_KEY")
 
 # Use the check_hwid method to check the status of a HWID
 hwid = "testhwid"
-response = api.check_hwid(hwid)
+response = authcord.check_hwid(hwid)
 
 
 # check the response 
