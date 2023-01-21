@@ -14,3 +14,33 @@ If you do want to install from the source you can run:
 ```
 python setup.py
 ```
+
+# Usage 
+Before using the authcord module you must set your Authcord APIKEY by writing the bellow code:
+```py
+authcord = Authcord("YOUR_USER_LEVEL_APIKEY")
+```
+
+once you have set your Authcord APIKEY you can now use the functions.
+
+<b>Functions</b>
+```check_hwid```
+
+Example: 
+```py
+from authcord import Authcord
+
+# Create an instance of the Authcord class and pass in your API key
+api = Authcord("YOUR_USER_LEVEL_API_KEY")
+
+# Use the check_hwid method to check the status of a HWID
+hwid = "testhwid"
+response = api.check_hwid(hwid)
+
+
+# check the response 
+if response["Response"] == "Valid":
+    print("HWID is valid.")
+else:
+    print("HWID is not valid.")
+   ```
