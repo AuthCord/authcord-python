@@ -23,7 +23,7 @@ authcord = Authcord("YOUR_USER_LEVEL_APIKEY")
 
 once you have set your Authcord APIKEY you can now use the functions.
 
-<b>Functions</b>
+<b>Functions</b><br>
 ```check_hwid```
 
 Example: 
