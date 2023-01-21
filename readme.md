@@ -6,7 +6,11 @@ see the <a href="https://docs.authcord.xyz">Authcord docs</a>
 
 # Installation
 If you don't want to install from the source you can run:
-```pip install authcord```
+```
+pip install authcord
+```
 
 If you do want to install from the source you can run:
-```python setup.py```
+```
+python setup.py
+```
