@@ -1,4 +1,4 @@
-# THIS IS NOT COMPLETE DO NOT TRY TO INSTALL IT OR USE IT I WILL UPLOAD THE CODE WHEN FINISHED JUST WRITING THE README AS I CODE
+# WiP!
 
 # Authcord python library
 The Authcord library is a Python module that allows you to easily communicate with the Authcord API.
