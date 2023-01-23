@@ -1,5 +1,4 @@
 # Work in Progress...
-## SCIENCE!
 
 # Authcord python library
 The Authcord library is a Python module that allows you to easily communicate with the Authcord API.
