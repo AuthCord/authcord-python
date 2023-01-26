@@ -1,5 +1,7 @@
 # Work in Progress...
 
+Find more info and get api access by <a href="https://discord.com/invite/vQ6US7MGgy">joining our Discord</a>
+
 # Authcord python library
 The Authcord library is a Python module that allows you to easily communicate with the Authcord API.
 
