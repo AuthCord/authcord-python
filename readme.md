@@ -1,4 +1,4 @@
-# Work in Progress...
+# Authcord [Live Beta]: Python Library with Examples
 
 Find more info and get api access by <a href="https://discord.com/invite/vQ6US7MGgy">joining our Discord</a>
 
